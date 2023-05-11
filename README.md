@@ -13,9 +13,8 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  
 </div>
-![alt text]([http://url/to/img.png](https://www.google.com/search?q=kivy+image&safe=active&client=firefox-b-d&sxsrf=APwXEddPFrYYcZhosLGsUuupzGwHgNXPQA:1683776856433&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiTlqLLrez-AhWE-2EKHSFFCFUQ_AUoAXoECAEQAw&biw=1440&bih=787&dpr=2#imgrc=qM5acbkrn7_VKM)
-
 ---
 
 ### :fire: My Stats :
