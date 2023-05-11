@@ -1,13 +1,17 @@
 # 👋 Hi, I’m @Tyrannosuarus
-- 👀 I’m interested in developing programming skills in Python, JS and 
-I work in Python, Kivy and KivyMD
-- 💞️ I’m looking to collaborate on ...
-- Reach out at themegalodon2@gmail.com
+
+### :man_technologist: About Me :
+
+- :telescope: I’m working on solo projects for Python using Kivy and KivyMD.
+
+- :seedling: Exploring Python, PyTorch, JavaScript and More...
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
-Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tyrannosuarus&theme=dark&background=000000)](https://git.io/streak-stats)
